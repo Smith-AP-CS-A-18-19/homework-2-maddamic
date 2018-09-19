@@ -1,3 +1,4 @@
+// maddamic
 import java.awt.Rectangle;
 
 public class Homework2Tests {
